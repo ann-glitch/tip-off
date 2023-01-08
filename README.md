@@ -4,11 +4,12 @@
 
 > an advice generator react app.
 
-## setup 
+## setup
 
 ```
-yarn add && npm start
+yarn && npm start
 ```
+
 ---
 
-[Live Site](https://inquisitive-pithivier-758c44.netlify.app/)
+[Live Site](https://tip-off.netlify.app)
